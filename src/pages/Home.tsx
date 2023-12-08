@@ -29,6 +29,13 @@ const challenge = [
     target: 'Variable & DOM, Fetch API, Conditional, Operator, Function, Looping, Event Listener (Callback)',
     link: '/mobile-legend',
   },
+  {
+    name: 'Tic Tac Toe',
+    level: 'Hard',
+    language: ['TypeScript', 'React'],
+    target: 'Variable & DOM, Fetch API, Conditional, Operator, Function, Looping, Event Listener (Callback)',
+    link: '/tic-tac-toe',
+  },
 ];
 
 export default function Home() {

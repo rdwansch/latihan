@@ -21,7 +21,7 @@ export default function Concurrency() {
     e.preventDefault();
 
     const res = C[fromConcurrency] * C['USD'] * C[toConcurrency];
-
+    console.log(amount);
     console.log(res);
   };
 
